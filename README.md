@@ -55,11 +55,11 @@ Check Length
 Calculate Score
       Weak / Medium / Strong
 
+```text
 
-## Resume Description
+
 
 **Password Strength Checker | Python**
 
 Developed a Python-based password strength checker that evaluates passwords based on length, uppercase and lowercase characters, numbers, and special characters. Implemented regular expressions and conditional logic to calculate a strength score and provide basic password-security feedback.
 
-This is an educational password-strength project. It does not store or transmit passwords and should not be treated as a complete enterprise password-security system.
