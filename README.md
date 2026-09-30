@@ -36,14 +36,13 @@ Then enter a password when prompted.
 ```text
 Enter your password: Hello123
 
-Password Analysis
------------------
+Password Analysis:
 Strength: Medium
 Score: 4/5
 
 Suggestions:
 - Add a special character.
-```
+
 
 ## How It Works
 
